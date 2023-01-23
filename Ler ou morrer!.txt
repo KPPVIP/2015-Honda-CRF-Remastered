@@ -1,0 +1,21 @@
+2015 Honda CRF450 by RkrdM [Add-On]
+
+3d Model for MX Sim by T-RIDER: Honda Model
+	    	       J4KAW: Cycra Honda
+Convert to GTA V by RkrdM 
+Texture Seven by RkrdM
+
+Blog: https://modsrkrdm.blogspot.com
+Facebook2: https://www.facebook.com/ModsGrandTheftAutoV
+Youtube: https://www.youtube.com/user/GTAModsSA
+
+Tutoriais: https://www.youtube.com/playlist?list=PLahog7jkmn2YJZteH0R6F8_YQnH-A_Qj6
+
+=================================================================================================
+
+-------HOW TO INSTALL------- 
+
+Add-on Install - Replace 2015crf450.ytd in OpenIV > Grand Theft Auto V\mods\update\x64\dlcpacks\2015crf450\dlc.rpf\x64\vehicles.rpf\
+
+
+Replace Install - Replace sanchez.ytd in OpenIV > Grand Theft Auto V\update (folder)\x64\dlcpacks\patchday3ng\dlc.rpf\x64\levels\gta5\vehicles.rpf\
